@@ -1,0 +1,310 @@
+.form-group .form-control[disabled] {
+	background-color: #fbfbfb;
+	box-shadow: inset 0 1px 1px rgb(255, 255, 255);
+	border: 1px solid #ddd;
+}
+
+a:focus {
+	outline: none;
+}
+
+span.space-dot {
+	float: right;
+	margin: 0px 20px;
+}
+
+.ejtablestyle th {
+	text-align: center;
+	background: #f7f7f7;
+}
+
+.ejtablestyle td {
+	text-align: center;
+	word-break: keep-all; /* 不换行 */
+	white-space: nowrap; /* 不换行 */
+	overflow: hidden; /* 内容超出宽度时隐藏超出部分的内容 */
+	text-overflow: ellipsis;
+}
+
+font.red {
+	color: red;
+}
+
+#activityBiddingPrice {
+	padding-left: 95px;
+}
+
+#activityBiddingPrice .pricetr>div {
+	padding: 0px;
+	margin-bottom: 8px;
+}
+
+#activityBiddingPrice .pricetr input[type='text'] {
+	width: 100%;
+}
+
+.rdinary_ul table {
+	border: 1px solid #666;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.rdinary_ul table td {
+	border: 1px solid #666;
+	text-align: center;
+	padding: 5px;
+}
+
+.trans-port-item-info {
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+}
+
+#normDiv .table-scrollable th {
+	text-align: center;
+}
+
+.nomargin {
+	margin: 0 !important;
+}
+
+.nomargin small {
+	margin: 0 !important;
+}
+
+.skudiv, .skuinfo {
+	margin: 10px 0px;
+}
+
+.pronorm {
+	margin-bottom: 15px;
+}
+
+.idxnews-more {
+	float: right;
+	color: #c2acac;
+	margin: 10px 0;
+	cursor: pointer;
+}
+
+.blog-title {
+	margin-top: 20px;
+	margin-bottom: 0;
+	font-weight: normal;
+	text-align: center;
+}
+
+.blog-main {
+	font-size: 18px;
+}
+
+.blog-main p {
+	text-indent: 20px;
+}
+
+.center {
+	text-align: center;
+	padding: 10px 0;
+	border-bottom: 1px solid #e0e0e0;
+	margin-bottom: 20px;
+}
+
+.center span {
+	line-height: 30px;
+	font-size: 16px;
+	margin-right: 20px;
+}
+
+.mystybtn {
+	position: absolute;
+	left: 50%;
+	top: 0;
+	transform: translateX(-50%);
+}
+
+.collx label {
+	width: 50px;
+	text-align: right;
+	margin: 0 10px;
+}
+
+.info-span {
+	display: block;
+	width: 100%;
+	height: 34px;
+	padding: 6px 12px;
+	font-size: 14px;
+}
+
+.warning {
+	margin-bottom: 10px;
+}
+
+.warning label {
+	margin: 0;
+}
+
+.flash-time-tip {
+	font-size: 12px;
+	color: red;
+	margin-left: 10px;
+}
+
+.addItemT .pull-left {
+	margin-bottom: 8px;
+}
+
+.active-input-list {
+	width: 100%;
+}
+
+.prom-group {
+	margin-right: -15px;
+	margin-left: -15px;
+	margin-bottom: 15px;
+}
+
+.prom-label {
+	width: 30%;
+	float: left;
+}
+
+.prom-div {
+	width: 66%;
+	float: left;
+}
+
+.prom-handel-btn {
+	padding: 2px 12px !important;
+}
+
+.prom-stage-remark {
+	color: #595959cc;
+	margin: 0;
+	margin-left: 15px;
+	font-size: 12px;
+}
+
+.prom-stage {
+	padding-top: 10px;
+}
+
+.prom-items small.help-block {
+	margin-left: 45px;
+	margin-bottom: 0px;
+	width: 100%;
+	display: inline-block;
+}
+
+.p-btn-save {
+	text-align: center;
+	margin: 5px 0px;
+}
+
+.goodsset-btn-div {
+	margin: 5px 0px;
+}
+
+.btn-full-screen {
+	text-align: center;
+	width: 120px;
+	margin: 0 5px;
+}
+
+.textcenter {
+	text-align: center;
+}
+
+.whtitdiv {
+	min-height: 45px !important;
+}
+
+.whtitdiv select {
+	min-width: 138px;
+}
+
+.whtitdiv input.btn {
+	padding: 2px 12px;
+}
+
+.nodata-loading {
+	text-align: center;
+	padding: 150px 0;
+	font-size: 12px;
+}
+
+.databox-row50 label {
+	color: #000;
+}
+
+.databox .databox-row50 label a {
+	margin: 0 5px;
+	color: red;
+	font-style: oblique;
+	font-size: 16px;
+}
+
+.page-sidebar .sidebar-header-wrapper .homeicon {
+	float: left;
+}
+
+.page-sidebar .glyphicon-home::before {
+	content: "\e021";
+	margin-right: 10px;
+}
+
+.submenu .menu-text::before {
+	margin-right: 10px;
+}
+
+.settlementbtn {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.from-ff .lab-item-pro {
+	width: 115px;
+	text-align: right;
+}
+
+#bodyejavashop>font {
+	margin-left: 20px;
+}
+
+input[type="file"].imageFile {
+	width: 100%;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	opacity: 0;
+}
+
+.area_box_bottom input {
+	line-height: 15px;
+}
+
+.area_box_main li span label {
+	max-width: 60px;
+	overflow: hidden;
+	height: 35px;
+}
+
+.querycond{
+	padding: 10px;
+}
+
+#sidebar .nav > li.open > a.menu-dropdown:focus {
+    border: none !important;
+}
+
+#normDiv .checkbox input[type="checkbox"][colortype="custom"]{
+	margin-top: 8px;
+}
+
+.messager-window .dialog-button .l-btn {
+    margin: 0 3px;
+}
+
+#activityBiddingPrice .pricetr,.ejformstyle .addItemT{
+	margin-bottom: 5px;
+}
