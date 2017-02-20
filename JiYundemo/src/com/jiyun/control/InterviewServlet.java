@@ -70,7 +70,7 @@ public class InterviewServlet extends HttpServlet {
 				
 				dao.saveInterview(interview);
 				response.sendRedirect("success.jsp");
-			}	else if (action.equals("selectForFadeback")) {//查询所有学生列表
+			}	else if (action.equals("selectForFadeback")) {//查询所有学生反馈列表
 				
 				
 				
